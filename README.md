@@ -2,7 +2,7 @@
 - US Patent 9,201,967, 2015
 Rule based product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
 
-# selected peer reviewed publications
+# Selected peer reviewed publications
 - EMNLP 2010
 
 A fast fertility hidden Markov model for word alignment using MCMC [pdf](https://aclanthology.info/pdf/D/D10/D10-1058.pdf)
