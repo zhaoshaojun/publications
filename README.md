@@ -1,5 +1,6 @@
 # Granted Patents
 - US Patent 9,201,967, 2015
+
 Rule based product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
 
 # Selected peer reviewed publications
