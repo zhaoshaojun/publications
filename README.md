@@ -3,7 +3,7 @@
 
 Rule based product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
 
-note: In the product classificatin system, all the rules are learnt using machine learning algorithms. We could have chosen a better title for the patent.
+note: In the product classificatin system, all the rules are learnt using machine learning algorithms. We could have chosen a better title for the patent :p
 
 # Selected peer reviewed publications
 - EMNLP 2010
