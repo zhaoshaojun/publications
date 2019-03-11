@@ -17,7 +17,8 @@ Named entity recognition in biomedical texts using an HMM model [pdf](https://ac
 
 - IJCAI 2003
 
-Identifying synonyms among distributionally similar words [pdf(http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.447.7048&rep=rep1&type=pdf)
+Identifying synonyms among distributionally similar words [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.447.7048&rep=rep1&type=pdf)
 
 
 # Patents
+Rule based product classification US Patent 9,201,967, 2015 [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
