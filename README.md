@@ -1,9 +1,9 @@
 # Granted Patents
 - US Patent 9,201,967, 2015
 
-Rule based product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
+Learning rules for product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
 
-note: In the product classificatin system, all the rules are learnt using machine learning algorithms. We could have chosen a better title for the patent :p
+note: the original patent title is inaccurate.
 
 # Selected peer reviewed publications
 - EMNLP 2010
