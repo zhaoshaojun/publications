@@ -1,7 +1,7 @@
 # Granted Patents
 - US Patent 9,201,967, 2015
 
-Learning rules for product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
+Learning rules for large scale product classification [link](https://patentimages.storage.googleapis.com/37/bf/6c/f1d10d1ade33dc/US9201967.pdf)
 
 note: the original patent title is inaccurate.
 
